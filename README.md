@@ -14,7 +14,7 @@
   ### Installation
   * Go to the heroku deployed webpage to use the app
   ### Usage
-  * to be adopted by shake shack
+  * Commisioned by McDonalads
   ### License
   * None
   ### Contribute
